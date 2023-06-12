@@ -1,0 +1,22 @@
+#caixa1{
+    background-color: blueviolet;
+    height: 100px;
+    width: 100px;
+    transition: height 1s;
+}
+#caixa1:hover{
+height:200px;
+
+}
+#caixa2{
+    background-color: blueviolet;
+    height: 100px;
+    width: 100px;
+    transition: height 1s; width: 1,5s; color 1s;
+
+}
+#caixa2:hover{
+    background-color: blue;
+    height: 120px;
+    width: 140px;
+}

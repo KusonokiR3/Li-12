@@ -1,0 +1,18 @@
+.desafio1{
+    color: orange;
+    text-align:center;
+
+
+}
+#lista1{
+color:#2d44c9;
+font-family:Arial, Helvetica, sans-serif ;
+list-style-type: georgian;
+}
+#lista2{
+    color: #371dce;;
+    list-style-type: lower-latin
+}
+#body{
+    background-color: rgba(red, green, blue, alpha);
+}

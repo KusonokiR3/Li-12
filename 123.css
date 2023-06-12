@@ -1,0 +1,48 @@
+#h1{
+    width: 400px;
+    height: 500px;
+    background-color: rgb(214, 18, 18);
+}
+#h1:hover{
+    width: 600px;
+    height: 700px;
+    background-color: aqua;
+}
+ol li:first-child{
+    color:aqua;
+
+}
+ol li:last-child{
+    color:blue
+}
+ul li:first-of-type{
+    color: brown;
+}
+ul li:last-of-type{
+    color: cornsilk;
+}
+#kkk li:nth-of-type(2n){
+    color: chartreuse;
+}
+p::after{
+    content: "Final";
+
+}
+P::before{
+    content: 'Início';
+}
+ol ::first-letter{
+    color: brown;
+}
+ul::first-line{
+    color: aqua;
+}
+p::selection{
+    color:chocolate
+}
+::marker{
+    color: darkcyan;
+}
+::placeholder{ 
+    color: coral;
+}

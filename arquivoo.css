@@ -1,0 +1,61 @@
+.div1{
+    background-image:linear-gradient(to bottom, rgb(65, 84, 138),rgb(243, 243, 243) );
+    height: 50px;
+    width: 200px;
+}
+.div2{
+    background-image: linear-gradient(to right, yellow, green);
+    height: 50px;
+    width: 200px;
+}
+.div3{
+    background-image: linear-gradient(to left, black,purple );
+    height: 50px;
+    width: 200px;
+}
+.div4{
+    background-image: linear-gradient(to top, rgb(44, 28, 28), red);
+    height: 50px;
+    width: 200px;
+}
+.div5{
+    background-image: linear-gradient(45deg, gray, rgb(182, 46, 69)  );
+    height: 50px;
+    width: 200px;
+}
+.div6{
+    background-image: radial-gradient(yellow,red);
+    height: 50px;
+    width: 200px;
+}
+#translate{
+    background-image: linear-gradient(yellow,red);
+    transform: translate(10px,30px);
+    height: 50px;
+    width: 200px;
+}
+#rotate{
+    background-image: linear-gradient(yellow,red);
+    transform:rotate(20px,30px);
+    height: 50px;
+    width: 200px;
+}
+#rotatex{
+    background-image: linear-gradient(yellow,red);
+    transform:rotateX(50deg);
+    height: 50px;
+    width: 200px;
+}
+#rotatey{
+    background-image: linear-gradient(yellow,red);
+    transform:rotateY(160deg)
+    height: 50px;
+    width: 200px;
+}
+
+#rotatez{
+    background-image: linear-gradient(yellow,red);
+    transform:rotateZ(190deg);
+    height: 50px;
+    width: 200px;
+}
